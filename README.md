@@ -1,3 +1,3 @@
 # TEAM
-- Mikołaj Nitek ## Owner & programmer.
+- Mikołaj Nitek Owner & programmer.
 - 
